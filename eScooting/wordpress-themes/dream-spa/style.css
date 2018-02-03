@@ -1,0 +1,55 @@
+/*
+* Theme Name: Dream Spa
+* Theme URI: http://webriti.com/dream-spa-child-version-details-page/
+* Description: Dream Spa is an elegant WordPress child theme of Spasalon theme. Its perfect for building an online store. The theme suitable for spa, salons, beauty, care, girly, hair, health, hospitality, massage, medical, parlor, physiotherapy, wellness, yoga, health blog and for any type of businesses. Create an effective online shop presence since theme have a support for very famous plugin, WooCommerce. Separate Woocommerce Sidebar added in the shop pages so that you can add different set of widgets from default templates. You can customize the layouts of sidebars on Business Template without adding a single line of code. Navigate to Appearance > Customize to start customizing. Check premium version theme demo at http://webriti.com/demo/wp/dream-spa/
+* Version: 1.2.6
+* Author: webriti
+* Author URI: http://www.webriti.com
+* Tags: one-column, two-columns, full-width-template, threaded-comments, right-sidebar, custom-menu, sticky-post, translation-ready, featured-images, blog, theme-options, portfolio, photography, food-and-drink, entertainment, education, footer-widgets, e-commerce
+* License: GNU General Public License v3.0
+* License URI: http://www.gnu.org/licenses/gpl-3.0.html
+* Copyright (c) 2013 webriti. All rights reserved.
+* Text Domain: dream-spa
+* Template: spasalon
+*/
+
+/*===================================================================================*/
+/*	CAPTION OF SLIDER
+/*===================================================================================*/
+
+.caption-overlay { 
+	height: auto;
+	left: 0;
+	padding: 0px 30px;
+	position: absolute;
+	right: 0;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 0; 
+	margin: 0 auto;
+}
+.caption-overlay h1 { font-size: 3.5em; font-weight:700; line-height:125%; word-wrap:break-word; margin:0 0 20px; } 
+.caption-overlay p { font-size: 22px; line-height: 30px; margin: 0 0 30px; } 
+
+h1.txt{ text-shadow: 0px 1px 2px rgba(255, 255, 255, 0.6); }
+.txt p{ text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.6); }
+
+@media (max-width: 992px) { 
+.caption-overlay h1 { font-size: 2.5em; } 
+.caption-overlay p { font-size: 20px; line-height: 25px; } 
+}
+@media (max-width: 767px) { 
+.caption-overlay h1 { font-size: 2em; margin: 0 0 10px; } 
+.caption-overlay p { font-size: 15px; line-height: 22px; margin: 0 0 20px; } 
+.flexslider .more-link { font-size: 12px; padding: 6px 16px; }
+.flexslider .more-link:hover { padding: 6px 24px; }
+}
+@media (max-width: 480px) { 
+.caption-overlay h1 { font-size: 1.2em; margin: 0 0 5px; } 
+.caption-overlay p { font-size: 12px; line-height: 20px; margin: 0 0 10px; }
+.flexslider .more-link { font-size: 10px; padding: 5px 15px; }
+.flexslider .more-link:hover { padding: 5px 22px; }
+}
+.service .widget_wbr_feature_page_widget { padding: 0 15px; }

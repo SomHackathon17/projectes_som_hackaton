@@ -1,0 +1,4 @@
+1._Hackaton alfa: sitema de movimiento de camara.
+2._HUD Interficie grafica
+3._P mapa
+El resto: Recursos utilizados.

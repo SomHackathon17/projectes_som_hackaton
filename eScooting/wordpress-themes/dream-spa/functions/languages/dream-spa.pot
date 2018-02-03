@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream-spa\n"
+"POT-Creation-Date: 2016-10-14 17:53+0530\n"
+"PO-Revision-Date: 2016-10-14 17:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\dream-"
+"spa\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\dream-spa\n"
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/404.php:19
+msgid "Oops! Page not found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/404.php:21
+msgid "4"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/404.php:23
+msgid "Page doesnt exist or some other error occured. Go to our"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/404.php:23
+msgid "home page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/archive.php:39
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/category.php:39
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/index.php:38
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/search.php:39
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/tag.php:38
+msgid "Previous"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/archive.php:40
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/category.php:40
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/index.php:39
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/search.php:40
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/tag.php:39
+msgid "Next"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/index-slider.php:28
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:12
+msgid "Slider Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:19
+msgid "Choose Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:26
+msgid "Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:39
+msgid "Select Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:52
+msgid "Slider caption alignment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:75
+msgid "Slider Caption Title Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:95
+msgid "Slider Caption Description Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:109
+msgid "Click here to add slides"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\dream-spa/functions/customizer/home-page.php:123
+msgid "Discover spasalon Pro"
+msgstr ""

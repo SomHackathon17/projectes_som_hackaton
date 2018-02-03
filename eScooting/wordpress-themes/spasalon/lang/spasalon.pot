@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spasalon\n"
+"POT-Creation-Date: 2017-01-24 13:00+0530\n"
+"PO-Revision-Date: 2017-01-24 13:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wp7\\wp-content\\themes"
+"\\spasalon_lite_customizer\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wp7\\wp-content\\themes"
+"\\spasalon_lite_customizer\n"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/404.php:20
+msgid "Oops! Page not found"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/404.php:24
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/404.php:24
+msgid "Go Back"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/archive.php:40
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/category.php:40
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/index.php:49
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/search.php:41
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/tag.php:40
+msgid "Previous"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/archive.php:41
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/category.php:41
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/index.php:50
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/search.php:42
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/tag.php:41
+msgid "Next"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/comments.php:17
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/comments.php:32
+msgid "at"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/comments.php:84
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/comments.php:85
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/comments.php:86
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/content-none.php:6
+msgid "Nothing Found"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/content-none.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/content-none.php:23
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/content.php:24
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions.php:163
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions.php:181
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/index-news.php:92
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-news-widget.php:108
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/content.php:27
+msgid "Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions.php:91
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions.php:93
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/search.php:26
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:9
+msgid "Banner settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:14
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:24
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:63
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:102
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:141
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:180
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:219
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:240
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:311
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:395
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/post-widget.php:60
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:35
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:74
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:113
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:152
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:191
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:230
+msgid "Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:46
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:85
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:124
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:163
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:202
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:241
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:251
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:324
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:407
+msgid "Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:53
+msgid "Archive"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:92
+msgid "Tag"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:131
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:170
+msgid "404"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/banner-settings.php:209
+msgid "Woocommerce"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/customizer-pro.php:15
+msgid "View Demo"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/customizer-pro.php:44
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/customizer-pro.php:51
+msgid "Upgrade to pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/customizer-pro.php:77
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/customizer-pro.php:106
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/customizer-pro.php:110
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:10
+msgid "General settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:15
+msgid "Banner setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:26
+msgid "Banner strip"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:40
+msgid "Call us on"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:51
+msgid "Call us text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:58
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:69
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:76
+msgid "Footer copyright settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/general-settings.php:87
+msgid "Copyright text"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:12
+msgid "Slider section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:19
+msgid "Choose Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:26
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:194
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:278
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:347
+msgid "Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:37
+msgid "Slider banner enable in home page"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:52
+msgid "Banner title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:63
+msgid "Banner subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:74
+msgid "Banner description"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:88
+msgid "Select post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:102
+msgid "Slider thumbnails enable in home page"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:119
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:133
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:147
+msgid "Select thumbnail post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:160
+msgid "Click here to add slides"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:189
+msgid "Service section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:206
+msgid "Hide service section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:218
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:372
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-news-widget.php:179
+msgid "Select column layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:229
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:299
+msgid "Section Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:273
+msgid "Product section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:291
+msgid "Hide Product section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:342
+msgid "News section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:360
+msgid "Enable News Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/customizer/home-page.php:384
+msgid "News Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/welcome-screen.php:57
+msgid "Get started with Spasalon"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/child-themes.php:35
+msgid "Dream Spa"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/child-themes.php:37
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:14
+msgid "Features"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:113
+msgid "Spasalon Lite"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:117
+msgid ""
+"Banner Image, Service, Static Product, Latest News, 4 Column Footer "
+"Widgetizeds area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:118
+msgid "Business Template, Full Width Template"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:120
+msgid "Spasalon: Page Widget [Service, Product], Spasalon: Latest News Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:121
+msgid "Support For Featured Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:122
+msgid "Not Customizable"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:123
+msgid "Simple Thumbnail Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:133
+msgid "On WordPress.org Support Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:145
+msgid "Spasalon Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:149
+msgid ""
+"Slider [Unlimited Slides], Service [Unlimited Services], Products [Unlimited "
+"Products], Latest News, Additional Section and 4 Column Footer Widgetizeds "
+"area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:150
+msgid ""
+"Homepage, Homepage 2, About us, Blog Left Sidebar, Blog Right Sidebar, Blog "
+"Full Width, Page Full Width, Product Page and Contact Page."
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:152
+msgid ""
+"Spasalon: Page / Service Widget, Spasalon: Product Category Widget, "
+"Spasalon: Recent Products Widget, Spasalon: Team Widget, Spasalon: Latest "
+"News Widget, Spasalon: Latest Post and Spasalon: Contact Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:153
+msgid ""
+"Support for thousands of Font-Awesome Icon , Featured Images and Read More "
+"Button / Link"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:154
+msgid "Customizable"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:155
+msgid "Overlay Effects Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/free_pro.php:165
+msgid "Premium Support Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/getting-started.php:14
+msgid "About Spasalon Lite Theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/getting-started.php:54
+msgid "Lite Demo"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/getting-started.php:58
+msgid "View Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/getting-started.php:61
+msgid "Premium Theme Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/getting-started.php:70
+msgid "Rate This Theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/getting-started.php:73
+msgid "Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/upgrade.php:99
+msgid "Help Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/spasalon-info/sections/upgrade.php:117
+msgid ""
+"<p><strong> Jetpack Gallery Support</strong></p><p>The native WordPress "
+"image gallery displays as a grid of image thumbnails. If you want to show "
+"overlay effects on the gallery images? You need to install <a href=\"https://"
+"wordpress.org/plugins/jetpack/\" target=\"_blank\">Jetpack plugin,</a> Using "
+"Jetpack you can create four types of gallery style like Tiled Mosaic, Square "
+"Tiles, Circles and Tiled Columns. See gallery look on Spasalon theme demo.<a "
+"href=\"http://webriti.com/demo/wp/spasalon/gallery/\" target=\"_blank\"> "
+"Click Here</a></p>"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/post-widget.php:13
+msgid "WBR : Latest Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/post-widget.php:14
+msgid "Latest Post Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/post-widget.php:65
+msgid "No posts to show"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:11
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:13
+msgid "Sidebar widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:21
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:23
+msgid "Service content widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:31
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:33
+msgid "Project content widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:41
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:43
+msgid "News section widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:53
+msgid "Footer sidebar one"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:61
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:63
+msgid "Footer sidebar two"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:71
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:73
+msgid "Footer sidebar three"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:81
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:83
+msgid "Footer sidebar four"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:91
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/sidebars.php:93
+msgid "Woocommerce sidebar widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-news-widget.php:24
+msgid "WBR : Recent News Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-news-widget.php:26
+msgid "To display your recent post"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-news-widget.php:146
+msgid "Select posts category"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-news-widget.php:199
+msgid "Exclude post id ( like : 1,2,3 )"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-register-page-widget.php:22
+msgid "WBR : Page Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-register-page-widget.php:24
+msgid "Feature Page Item Widget"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-register-page-widget.php:125
+msgid "Select Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-register-page-widget.php:165
+msgid "Hide featured image"
+msgstr ""
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\spasalon_lite_customizer/functions/widget/wbr-register-page-widget.php:175
+msgid "Display image below title"
+msgstr ""

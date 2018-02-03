@@ -1,0 +1,63 @@
+.demo
+ {
+  background-color: #f22853;
+  border-color: #f22853;
+ }
+ .upgrade {
+  background-color: #1d4467;
+  border-color: #1d4467;
+}
+.review {
+  background-color: #82b541;
+  border-color: #1ec846;
+}
+.document{
+  background-color: #ee591f;
+  border-color: #ef9c28;
+}
+ 
+.demo, .upgrade, .review, .document, .service  {
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 13px 30px 14px 29px;
+  text-transform: uppercase;
+  width: 54%;
+  border-radius:2px;
+ }
+ 
+ .pro-box
+{display:block;text-align:center; margin-bottom: 0px;}
+.pro-vesrion 
+{text-align:center; margin-top:15px;}
+
+.pro-vesrion p{line-height:20px;} 
+
+#accordion-section-spasalon_pro_section .accordion-section-title, .accordion-section-title:after {background:#f22853; color:#fff;}
+#accordion-section-spasalon_pro_section .accordion-section-title:after {color:#fff;}
+
+.customizer_layout {
+	background-color:#ccc;
+ }
+
+ .color_scheem_active,.theme_style_active{
+	border: 1px solid #000 !important;
+    border-radius: 2px;
+ }
+ 
+ #customize-control-spa_theme_options-color_scheme_style label input[type="radio"]{
+	display:none;
+ }
+ 
+ #customize-control-spa_theme_options-color_scheme_style label img{
+	border: 1px solid transparent;
+	margin-bottom: 5px;
+    margin-right: 18px;
+ }
+ 
+ #customize-control-spa_theme_options-front_page_data label{
+	 display:none;
+ }
